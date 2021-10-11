@@ -1,4 +1,4 @@
-<h1 align="center">Hammurabi 👑</h1>
+<h1 align="center">Hammurabi 🧑‍🌾</h1>
 
 <p align="center"><project-description></p>
 
@@ -20,7 +20,7 @@
 
 ## 🗓️ Future Updates
 
-- [] Make it live -> ranking list
+- [ ] Make it live -> ranking list
 
 ## 🤵 Author
 
